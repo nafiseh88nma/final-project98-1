@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>model.service</OriginalElement>
+  <nodes>
+    <node x="260.0" y="-284.0">model.service.Enteration_officerServ</node>
+    <node x="-446.0" y="140.0">model.service.OfficerServ</node>
+    <node x="-182.0" y="140.0">model.service.CityServiceServ</node>
+    <node x="-48.0" y="-281.0">model.service.AvarezgirServ</node>
+    <node x="-446.0" y="-104.0">model.service.AccidentServ</node>
+    <node x="108.0" y="118.0">model.service.Electronic_paymentServ</node>
+    <node x="482.0" y="136.0">model.service.CarServ</node>
+    <node x="-447.0" y="-284.0">model.service.Registering_violationServ</node>
+    <node x="-52.0" y="-141.0">model.service.RoadServiceServ</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="171.0" y="39.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>controller</OriginalElement>
+  <nodes>
+    <node x="-54.0" y="-249.0">controller.Control_Item</node>
+    <node x="-360.0" y="66.0">controller.Control_Violation</node>
+    <node x="24.0" y="-70.0">controller.Control_Avarezgirpage</node>
+    <node x="-362.0" y="-71.0">controller.Control_Register_V_A</node>
+    <node x="-362.0" y="150.0">controller.Control_payment</node>
+    <node x="-363.0" y="-249.0">controller.Control_Interation</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="261.5" y="2.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

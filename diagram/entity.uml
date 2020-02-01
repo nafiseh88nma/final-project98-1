@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>model.entity</OriginalElement>
+  <nodes>
+    <node x="439.0" y="508.0">model.entity.AvarezgirEntity</node>
+    <node x="-416.0" y="324.0">model.entity.CarEntity</node>
+    <node x="-415.0" y="991.0">model.entity.AvarezipageEntity</node>
+    <node x="-417.0" y="-373.0">model.entity.RegisertingViolationsEntity</node>
+    <node x="-77.0" y="691.0">model.entity.CardEntity</node>
+    <node x="-108.0" y="992.0">model.entity.OfficerEntity</node>
+    <node x="-416.0" y="689.0">model.entity.RoadServiceEntity</node>
+    <node x="437.0" y="204.0">model.entity.Electronic_PaymentEntity</node>
+    <node x="4.0" y="325.0">model.entity.Enteration_officerEntity</node>
+    <node x="347.0" y="-369.0">model.entity.AccidentEntity</node>
+    <node x="302.0" y="698.0">model.entity.CityServiceEntity</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="212.5" y="902.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
